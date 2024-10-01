@@ -1,7 +1,7 @@
 # HoneyPot
 A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, and commands from various protocols (SSH &amp; HTTP supported right now). Written in Python.
 
-![HONEPY-Logo]("https://www.flaticon.com/free-icons/honey-jar")
+![pngwing com](https://github.com/user-attachments/assets/c1ec87c3-4bf9-4a23-948a-b6b7f13e0068)
 
 A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, and commands from various protocols (SSH & HTTP supported right now). Written in Python.
 
